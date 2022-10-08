@@ -6,5 +6,17 @@ namespace Csharp_Intermediate_S2_Exercise_1
         public Stopwatch()
         {
         }
+
+        public void Start()
+        {
+
+        }
+
+        public void Stop()
+        {
+
+        }
+
+
     }
 }
